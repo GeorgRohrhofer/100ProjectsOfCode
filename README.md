@@ -15,7 +15,7 @@ To get started with the project ideas:
 
 ### General Web & Networking Projects  
 General Web projects, from building a simple website to building tools for complex and difficult networking tasks like packet sniffing.  
-  - [x] [FTP Client](#ftp-client)
+  - [ ] [FTP Client](#ftp-client)
   - [ ] [HTTP Server](#http-server)
   - [ ] [Web Scraper](#web-scraper)
   - [ ] [Port Scanner](#port-scanner)
